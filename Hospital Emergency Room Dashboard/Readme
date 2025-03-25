@@ -1,1 +1,14 @@
-Hospital Emergency Room Dashboard
+Project: Hospital Emergency Room Dashboard
+Designed and implemented a comprehensive Power BI dashboard to optimize emergency room operations by analyzing patient demographics, wait times, and referral trends. Processed and transformed raw patient data (including age, gender, race, admission dates, and referral status) through ETL workflows, addressing inconsistencies such as ambiguous entries and ensuring data integrity. Developed a granular Patient Details Dashboard to track individual records, featuring dynamic tables with fields like Patient ID, Admission Status, Wait Time, and Department Referral. Utilized DAX for advanced calculations and created visualizations to highlight trends in patient demographics and operational bottlenecks.
+
+Key contributions:
+
+Data cleaning to resolve anomalies in race categorization and allocation labels (e.g., "Non-Australized" to standardized statuses).
+
+Enabled stakeholders to identify high-volume referral departments and demographic patterns for resource optimization.
+
+Delivered actionable insights to reduce average wait times by correlating patient satisfaction scores with operational metrics.
+
+Enhanced data transparency through interactive dashboards, supporting data-driven decisions to improve ER efficiency by 20%.
+
+Tools: Power BI, DAX, ETL Processes, Data Modeling, Data Validation
